@@ -1,0 +1,5 @@
+com\bfhl\javaapp\config\RestConfig.class
+com\bfhl\javaapp\config\AppProperties.class
+com\bfhl\javaapp\dto\GenerateWebhookResponse.class
+com\bfhl\javaapp\service\StartupRunner.class
+com\bfhl\javaapp\Application.class
